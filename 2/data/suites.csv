@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 03 16:06:49 GMT 2023","Fri Nov 03 16:06:52 GMT 2023","2995","","List Users","","List Users with valid page value","","List Users with valid page value",""
+"passed","Fri Nov 03 16:06:44 GMT 2023","Fri Nov 03 16:06:45 GMT 2023","1453","Rest-Assured TestNG Tests","ListUsers","services.ListUsers","services.ListUsers","testListUserWithValidPageNumber","testListUserWithValidPageNumber",""
+"passed","Fri Nov 03 16:06:48 GMT 2023","Fri Nov 03 16:06:52 GMT 2023","3460","Surefire suite","Surefire test","runner.RunTest","runner.RunTest","runScenario","Runs Cucumber Scenarios",""
